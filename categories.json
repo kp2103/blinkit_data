@@ -1,4 +1,4 @@
-  {"categories": [
+  [
     {
       "aspect_ratio": 0.68,
       "image": "https://cdn.grofers.com/layout-engine/2022-12/paan-corner_web.png",
@@ -139,4 +139,4 @@
       "deeplink": "grofers://listing?l0_cat=5&l1_cat=133",
       "id": "9058295"
     }
-  ],}
+  ]
